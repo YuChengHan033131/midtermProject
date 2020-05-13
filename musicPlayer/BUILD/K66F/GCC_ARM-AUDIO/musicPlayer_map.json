@@ -1,0 +1,252 @@
+[
+    {
+        "module": "4DGL-uLCD-SE/uLCD_4DGL_Text.o",
+        "size": {
+            ".text": 336,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "4DGL-uLCD-SE/uLCD_4DGL_main.o",
+        "size": {
+            ".text": 786,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "DA7212/DA7212.o",
+        "size": {
+            ".text": 840,
+            ".data": 100,
+            ".bss": 535,
+            ".text-delta": -96,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "[fill]",
+        "size": {
+            ".text": 289,
+            ".data": 17,
+            ".bss": 46,
+            ".text-delta": 44,
+            ".data-delta": 10,
+            ".bss-delta": -6
+        }
+    },
+    {
+        "module": "[lib]/c.a",
+        "size": {
+            ".text": 38558,
+            ".data": 2472,
+            ".bss": 89,
+            ".text-delta": -68,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "[lib]/gcc.a",
+        "size": {
+            ".text": 7844,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 116,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "[lib]/m.a",
+        "size": {
+            ".text": 2425,
+            ".data": 1,
+            ".bss": 0,
+            ".text-delta": -2803,
+            ".data-delta": 1,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "[lib]/misc",
+        "size": {
+            ".text": 180,
+            ".data": 4,
+            ".bss": 28,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "[lib]/nosys.a",
+        "size": {
+            ".text": 32,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "[lib]/stdc++.a",
+        "size": {
+            ".text": 5607,
+            ".data": 8,
+            ".bss": 44,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "accelerometer_handler.o",
+        "size": {
+            ".text": 584,
+            ".data": 9,
+            ".bss": 2438,
+            ".text-delta": 584,
+            ".data-delta": 9,
+            ".bss-delta": 2438
+        }
+    },
+    {
+        "module": "function.o",
+        "size": {
+            ".text": 12,
+            ".data": 0,
+            ".bss": 2,
+            ".text-delta": -272,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "magic_wand_model_data.o",
+        "size": {
+            ".text": 12384,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 12384,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "main.o",
+        "size": {
+            ".text": 3049,
+            ".data": 36,
+            ".bss": 3360,
+            ".text-delta": 1554,
+            ".data-delta": 36,
+            ".bss-delta": 360
+        }
+    },
+    {
+        "module": "mbed-os/components",
+        "size": {
+            ".text": 6,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os/drivers",
+        "size": {
+            ".text": 2224,
+            ".data": 0,
+            ".bss": 44,
+            ".text-delta": 674,
+            ".data-delta": 0,
+            ".bss-delta": 44
+        }
+    },
+    {
+        "module": "mbed-os/events",
+        "size": {
+            ".text": 1285,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os/hal",
+        "size": {
+            ".text": 1756,
+            ".data": 8,
+            ".bss": 131,
+            ".text-delta": 72,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os/platform",
+        "size": {
+            ".text": 6696,
+            ".data": 261,
+            ".bss": 309,
+            ".text-delta": 300,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os/rtos",
+        "size": {
+            ".text": 10103,
+            ".data": 168,
+            ".bss": 5980,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os/targets",
+        "size": {
+            ".text": 14096,
+            ".data": 36,
+            ".bss": 966,
+            ".text-delta": 837,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "tensorflowlite_mbed/tensorflow",
+        "size": {
+            ".text": 27504,
+            ".data": 192,
+            ".bss": 108,
+            ".text-delta": 27504,
+            ".data-delta": 192,
+            ".bss-delta": 108
+        }
+    },
+    {
+        "summary": {
+            "static_ram": 17392,
+            "static_ram_delta": 3192,
+            "total_flash": 139908,
+            "total_flash_delta": 41078
+        }
+    }
+]
